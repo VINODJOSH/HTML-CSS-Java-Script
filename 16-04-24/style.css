@@ -1,0 +1,28 @@
+@import url(https://images.app.goo.gl/pBUq7VmPEnxJ3ky56);
+
+:root{
+--primary:colo
+
+
+--secondary; 
+body{
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 0px;
+    margin: 0px;
+}
+/* header css starts here*/
+
+header{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+header img
+{
+    display: flex;
+    gap: 10px;
+    }
+    ul li
+}

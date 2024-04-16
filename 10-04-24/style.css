@@ -1,0 +1,33 @@
+h1{
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:xx-large ;
+    font-style:italic;
+    text-align: center;
+}
+
+h3{
+    color: rgb(49, 4, 252);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:: medium;
+    text-align: center;
+}
+
+body {
+    margin: 50px;
+    border-radius: 50px;
+    border-color: chocolate;
+    box-sizing: border-box;
+    background-color:aquamarine;
+    }
+
+main{
+    background-color: rgb(243, 141, 8);
+    border-radius: 50px;
+    border-color: chocolate;
+    height: 500px;
+    width: 500px;
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    gap: 10px;
+}
